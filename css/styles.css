@@ -1,0 +1,98 @@
+#header {
+  padding-bottom: 50px;
+  border-bottom: 5px;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+
+}
+
+#name {
+  text-align: center;
+  font-family: Philosopher;
+  font-size: 25px;
+  color: #CC3366 ;
+}
+
+#subject {
+  text-align: center;
+  font-family: Philosopher;
+  font-size: 20px;
+  color: #CC6666;
+}
+
+.circular {
+  width: 125px;
+  height: 125px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background-position: center;
+  display:block;
+  margin:auto;
+}
+
+img {
+  width: 300px;
+  -webkit-transition-duration: 0.6s;
+  -moz-transition-duration: 0.6s;
+  -o-transition-duration: 0.6s;
+  opacity: 0.9;
+  z-index: 1;
+  margin: 0;
+  position: relative;
+}
+
+img:hover {
+  -webkit-transform: scale( 1.5 );
+  -moz-transform: scale( 1.5 );
+  -o-transform: scale( 1.5 );
+  opacity: 1;
+  z-index: 10;
+}
+
+#encabezado {
+  font-family: serif;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #CC3366;
+
+}
+
+#content {
+  text-align: center;
+  padding-bottom: 25px;
+  font-family: "Times New Roman";
+}
+
+#practise {
+
+  color: #CC3366;
+}
+
+#footer {
+  padding-top: 35px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: serif;
+  color: #CC6666;
+
+}
+
+body {
+  text-align: center;
+  background-image: url("../fondo.jpg");
+  background-size: cover;
+}
+
+p {
+  padding-top: 25px;
+
+}
+
+#link {
+  color: #CC6666;
+}
