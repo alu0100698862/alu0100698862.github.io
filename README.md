@@ -5,7 +5,7 @@ El objetivo de esta práctica es realizar una web que aloje los enlaces a cada u
 
 Para poder acceder a dicha web hacemos click en el siguiente enlace:
 
- [Carlota Lázaro]( "Web")
+ [Carlota Lázaro](http://alu0100698862.github.io/ "Web")
 
  Siendo mi perfil el siguiente:
 
